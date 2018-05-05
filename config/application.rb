@@ -35,6 +35,8 @@ module MyDearWatson
   end
 end
 
+config.secret_key_base = ENV['secret_key_base']
+
 # config_files = ['secrets.yml']
 #
 #     config_files.each do |file_name|
