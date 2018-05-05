@@ -1,6 +1,6 @@
 # My Dear Watson
 
-[Live](https://matjack9.github.io/my-dear-watson-frontend/)
+[Live!](https://matjack9.github.io/my-dear-watson-frontend/)
 
 IBM Watson personality insights from Twitter posts rendered through Chart.js data visualization. Ruby on Rails backend and React frontend.
 
